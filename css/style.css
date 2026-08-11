@@ -35,7 +35,7 @@ h1 { text-align: center;
   /* TODO: text-align: center */
 }
 
-.cargo {
+.cargo { font-style: italic;
   /* TODO: font-weight: bold OU font-style: italic */
 }
 
