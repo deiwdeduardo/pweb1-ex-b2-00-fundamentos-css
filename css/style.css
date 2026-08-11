@@ -21,8 +21,9 @@
      [básico] .btn  -> cor de fundo (background-color)
 */
 
-body {
+body { background-color: dimgrey;
   /* TODO: background-color */
+  background-color: brown;
 }
 
 #topo {
