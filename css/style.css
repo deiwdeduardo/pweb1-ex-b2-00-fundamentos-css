@@ -26,11 +26,12 @@ body { background-color: dimgrey;
   
 }
 
-#topo {
+#topo { 
+  background-color: blueviolet;
   /* TODO: background-color */
 }
 
-h1 {
+h1 { text-align: center;
   /* TODO: text-align: center */
 }
 
