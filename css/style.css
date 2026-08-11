@@ -41,7 +41,7 @@ h1 { text-align: center;
 
 .cartao {
   padding: 1px;
-  border: 3px;
+  border: 1px solid #cccccc;
   margin: 5px;
 
   /* TODO: padding, border e margin */
