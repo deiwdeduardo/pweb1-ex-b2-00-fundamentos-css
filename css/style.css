@@ -21,7 +21,7 @@
      [básico] .btn  -> cor de fundo (background-color)
 */
 
-body { background-color: dimgrey;
+body { background-color: rgb(255, 254, 254);
   /* TODO: background-color */
   
 }
