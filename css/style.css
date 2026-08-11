@@ -40,9 +40,14 @@ h1 { text-align: center;
 }
 
 .cartao {
+  padding: auto;
+  border: auto;
+  margin: auto;
+
   /* TODO: padding, border e margin */
 }
 
 .btn {
+  background-color: bisque;
   /* TODO: background-color */
 }
